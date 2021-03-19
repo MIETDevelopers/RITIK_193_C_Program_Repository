@@ -1,4 +1,4 @@
-//A C Program to calculate Area/Perimeter of different shapes.               © Ishav Verma 18/March/2021
+﻿//A C Program to calculate Area/Perimeter of different shapes.               © Ishav Verma 18/March/2021
 //Perimeter of Square: 4 * side: side
 //Perimeter of Rectagnle: 2 * (Length + Breadth): Length, Breadth
 //Perimeter of Circle: 2*(22/7)*r: radius
