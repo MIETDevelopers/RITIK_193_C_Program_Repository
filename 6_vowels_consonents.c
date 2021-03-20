@@ -8,7 +8,7 @@ int main() {
     scanf("%c", &c); //It will take alphabet as input entered by user.
     lowercase_vowel = (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');//it will check if entered alphabet is vowel of lower case
     uppercase_vowel = (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U');//it will check if entered alphabet is vowel of upper case
-    if (lowercase_vowel || uppercase_vowel)// this if statement will check if vowel is of lower case or upper case
+    if (lowercase_vowel || uppercase_vowel)// this if statement will check if alphabet is vowel of either, lower case or upper case
         printf("%c is a vowel.", c);
     else
         printf("%c is a consonant.", c);
