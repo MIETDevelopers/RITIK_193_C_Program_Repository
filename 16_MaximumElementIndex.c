@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
   int i,limit;
-  float arr[limit];
+  float arr[i];
 
   printf("Please enter limit:\n ");
   scanf("%d", &limit);
